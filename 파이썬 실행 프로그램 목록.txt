@@ -1,6 +1,0 @@
-터미널
-쥬피터 노트북
-아나콘다
-코랩
-리플릿
-vscode + python plugin
