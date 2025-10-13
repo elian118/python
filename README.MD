@@ -2,7 +2,7 @@
 교재
 - 기초 - 혼자 공부하는 파이썬(윤인성), 한빛미디어 출판 `basic`
 - 심화 - 파이썬의 신(김주현), 로드북 출판 `deep`
-
+- 실습 - numpy, pandas, matplotlib  `practice`
 
 ### 실습 방법
 ---
@@ -33,6 +33,8 @@
 9. [[알고리즘] 해시(Hash)](https://adjh54.tistory.com/490)
 10. [Python은 네트워킹에서 어떻게 사용되나요?](https://www.reddit.com/r/ccna/comments/y4rs1v/how_is_python_used_in_networking/?tl=ko)
 11. [개발자 커뮤니티 SQLER.com - 데이터베이스, 클라우드, 머신러닝, 오픈소스, 파이썬](https://www.sqler.com/)
+12. [Scientific Python Lectures](https://lectures.scientific-python.org)
+    - Download PDF → numpy, pandas, matplotlib 관련 심화 교재 및 실습 예제 제공
 
 ### AI
 ---
@@ -45,3 +47,6 @@
 3. 서적
     - [NLP와 LLM 실전 가이드](https://www.yes24.com/product/goods/142954897)
     - [모두의 한국어 텍스트 분석 with 파이썬](https://www.yes24.com/product/goods/119117002)
+4. 국가공인 AI 자격증 - [AICE](https://aice.study/main)
+    - KT 주도로 2025년 4월 출범. 난이도 매우 어려움. 
+    - 취득한다고 해도 큰 의미는 없을 듯...
